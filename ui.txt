@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 q
 12
 faffdfa
 caac
-=======
 faffdfa
 fadfaf
->>>>>>> Demo
