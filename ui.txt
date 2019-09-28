@@ -1,6 +1,2 @@
-q
-12
-faffdfa
-caac
-faffdfa
-fadfaf
+1
+2
