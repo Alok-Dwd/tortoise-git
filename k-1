@@ -1,0 +1,22 @@
+https://www.c-sharpcorner.com/article/asp-net-core-learn-crud-operations-in-entity-framework-core-from-zero-to-hero/
+
+https://www.yogihosting.com/
+
+
+https://wakeupandcode.com/net-core-3-vs2019-and-csharp-8/
+
+https://www.codingame.com/playgrounds/35462/creating-web-api-in-asp-net-core-2-0/part-1---web-api
+
+https://www.codeproject.com/Articles/1259484/CRUD-Operation-in-ASP-NET-Core-Web-API-with-Entity
+
+https://www.learnentityframeworkcore.com/efcore/how-to-get
+
+https://devblogs.microsoft.com/dotnet/announcing-ef-core-3-0-and-ef-6-3-general-availability/
+
+complaint CCSHOC192015941
+
+
+https://www.codeproject.com/Articles/1259484/CRUD-Operation-in-ASP-NET-Core-Web-API-with-Entity
+
+Scaffold-DbContext "Server=172.40.24.45;Database=StoreDB;UID=import;PWD=import;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
